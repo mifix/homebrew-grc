@@ -4,6 +4,7 @@ class Grc < Formula
   homepage 'https://github.com/pengwynn/grc'
   url 'https://github.com/pengwynn/grc/tarball/master'
   md5 '3b512f31675771eb961251f632452288'
+  version '1.4'
 
   def install
     #TODO we should deprefixify since it's python and thus possible
