@@ -1,7 +1,7 @@
 homebrew-grc
 ============
 
-Fork of official grc formular
+Fork of official grc formula
 
 
 Background
